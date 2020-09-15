@@ -6,16 +6,16 @@ function preloader() {
 }
 preloader();
 
-function menu() {
-  let burgerMenu = document.querySelector(".menu");
-  let menuInfo = document.querySelector(".info");
+// function menu() {
+//   let burgerMenu = document.querySelector(".menu");
+//   let menuInfo = document.querySelector(".info");
 
-  burgerMenu.addEventListener("click", () => {
-      menuInfo.classList.toggle("info_active");
-      burgerMenu.classList.toggle("toggle");
-  });
-}
-menu();
+//   burgerMenu.addEventListener("click", () => {
+//       menuInfo.classList.toggle("info_active");
+//       burgerMenu.classList.toggle("toggle");
+//   });
+// }
+// menu();
 
   
 
