@@ -4,6 +4,7 @@ function preloader() {
       preloader.classList.add("preloader_loaded");
   };
 }
+
 preloader();
 
 // function menu() {
