@@ -163,6 +163,15 @@ ul,li{margin:0;padding:0;list-style:none}
 
 .footer__title{font-size:20px;font-weight:lighter;margin:0 50px 0 0;color:#1f2024;z-index:2}
 
+.subtitle{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+hr{
+    margin-bottom: 30px;
+}
 @media (max-width: 768px){
     html{font-size:16px}
     
